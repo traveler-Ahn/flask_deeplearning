@@ -20,9 +20,9 @@ keras 2.2.4
 mtcnn 0.0.9 (FaceDetection, Landmark detection)
 ```
 
-## 사전필요 사항 (prerequisite)
+## 사전필요 사항 (Prerequisite)
  
-- [Model file download](https://drive.google.com/drive/folders/1vBnoOsVKDmy55-6Ky9CtEwrr3SYkD7pJ?usp=sharing)(SSD, Age&Gender, Emotion)
+- [Model file download](https://drive.google.com/drive/folders/1vBnoOsVKDmy55-6Ky9CtEwrr3SYkD7pJ?usp=sharing) (SSD, Age&Gender, Emotion)
 
 
 
