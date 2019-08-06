@@ -3,13 +3,13 @@
 ## 실행 화면 (App running)
 
 - Face Detection (좋아하는 [연플리 시즌4](https://www.youtube.com/watch?v=PNuGLykXyzE):))
-<img src="https://github.com/traveler-Ahn/flask_deeplearning/blob/master/img/main_1.png" width="50" height="300">
+<img src="https://github.com/traveler-Ahn/flask_deeplearning/blob/master/img/main_1.png" width="500" height="300">
 
 - Object Detection
-<img src="https://github.com/traveler-Ahn/flask_deeplearning/blob/master/img/main_2.png" width="50" height="300">
+<img src="https://github.com/traveler-Ahn/flask_deeplearning/blob/master/img/main_2.png" width="500" height="300">
 
 - Etc... with Deeplearning
-<img src="https://github.com/traveler-Ahn/flask_deeplearning/blob/master/img/main_3.png" width="50" height="300">
+<img src="https://github.com/traveler-Ahn/flask_deeplearning/blob/master/img/main_3.png" width="500" height="300">
 
 ## 실행환경 (Environment)
 ```
