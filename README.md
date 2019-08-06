@@ -37,5 +37,5 @@ http://localhost:5000
 Flask Deeplearning: [https://github.com/kodamap/object_detection_demo](https://github.com/kodamap/object_detection_demo)><br>
 Age & Gender: [https://github.com/Tony607/Keras_age_gender](https://github.com/Tony607/Keras_age_gender)<br>
 ObjectDetection(SSD): [https://github.com/pierluigiferrari/ssd_keras](https://github.com/pierluigiferrari/ssd_keras)<br>
-FaceDetection: [https://github.com/ipazc/mtcnn](https://github.com/ipazc/mtcnn)
-LandMark: [https://github.com/ipazc/mtcnn](https://github.com/ipazc/mtcnn)<br>
+FaceDetection: [https://github.com/ipazc/mtcnn](https://github.com/ipazc/mtcnn)<br>
+LandMark: [https://github.com/ipazc/mtcnn](https://github.com/ipazc/mtcnn)
