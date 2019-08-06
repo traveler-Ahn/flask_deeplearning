@@ -20,6 +20,12 @@ keras 2.2.4
 mtcnn 0.0.9 (FaceDetection, Landmark detection)
 ```
 
+## 사전필요 사항 (prerequisite)
+ 
+- [Model file download](https://drive.google.com/drive/folders/1vBnoOsVKDmy55-6Ky9CtEwrr3SYkD7pJ?usp=sharing)(SSD, Age&Gender, Emotion)
+
+
+
 ## 실행 코드 (Excution, linux(ubuntu) & window10 supported)
 ```
 $ python app.py -i cam         (USB camera)
