@@ -1,4 +1,5 @@
 # Flask_deeplearning
+- 2019/08/06 ver.
 
 ## 실행 화면 (App running)
 
