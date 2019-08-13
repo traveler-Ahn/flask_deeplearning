@@ -107,7 +107,6 @@ if __name__ == "__main__":
         type=float)
 
     args = vars(ap.parse_args())
-
     # Model object instantiation
     obj_detector = ObjectDetectionModel(args['prob_threshold'])       # ObjectDetection model
     face_detector = MTCNN()                                           # FaceDetection & Landmark model 
