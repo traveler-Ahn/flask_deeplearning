@@ -18,6 +18,7 @@ Flask 1.1.1
 tensorflow 1.14.0 (cpu/gpu) supported
 keras 2.2.4
 mtcnn 0.0.9 (FaceDetection, Landmark detection)
+opencv-python 4.1.0.25
 ```
 
 ## 사전필요 사항 (Prerequisite)
