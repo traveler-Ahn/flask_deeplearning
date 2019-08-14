@@ -21,7 +21,7 @@ mtcnn 0.0.9 (FaceDetection, Landmark detection)
 ```
 
 ## 사전필요 사항 (Prerequisite)
- 
+
 - [Model file download](https://drive.google.com/drive/folders/1vBnoOsVKDmy55-6Ky9CtEwrr3SYkD7pJ?usp=sharing) (SSD, Age&Gender, Emotion)
 
 
@@ -41,7 +41,7 @@ http://localhost:5000
 # Enjoy iT:)
 
 ### Reference
-Flask Deeplearning: [https://github.com/kodamap/object_detection_demo](https://github.com/kodamap/object_detection_demo)><br>
+Flask Deeplearning: [https://github.com/kodamap/object_detection_demo](https://github.com/kodamap/object_detection_demo)<br>
 Age & Gender: [https://github.com/Tony607/Keras_age_gender](https://github.com/Tony607/Keras_age_gender)<br>
 ObjectDetection(SSD): [https://github.com/pierluigiferrari/ssd_keras](https://github.com/pierluigiferrari/ssd_keras)<br>
 FaceDetection: [https://github.com/ipazc/mtcnn](https://github.com/ipazc/mtcnn)<br>
